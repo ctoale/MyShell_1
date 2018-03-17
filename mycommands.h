@@ -5,7 +5,7 @@
 void welcome()
 {
 	printf("***************************************\n");
-	printf("**Welcome to Justin and Dylan's Shell**\n");
+	printf("**Welcome to Justin's, Dylan's, and Connor's Shell**\n");
 	printf("***************************************\n\n");
 }
 char *read_line()
